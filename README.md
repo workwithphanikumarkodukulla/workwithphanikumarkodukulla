@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=210&section=header&text=PHANI%20KUMAR%20KODUKULLA&fontSize=36&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FullStack%20Web%20Developer%20%C2%B7%20ML%2FAI%20Enthusiast&descAlignY=58&descSize=16&descColor=DDDDDD" width="100%"/>
 
-<img src="profile-avatar.png" width="150" style="border-radius:50%;border:4px solid #000000;box-shadow:0 0 0 6px #ffffff, 0 0 0 8px #000000;"/>
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=Loop%3A+Eat+%3B+Code+%3B+Sleep+%3B+Enjoy+%3B;Building+things+with+code+%2B+curiosity" alt="Typing SVG"/>
 
 <br/>
@@ -22,25 +18,12 @@
 
 ## 🖤 About Me
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
 - 🚀 **FullStack Web Developer** who also builds with **Machine Learning & Deep Learning**
 - 🌱 Currently deep-diving into **Deep Learning**
 - 💼 All projects live at → **[phanikumar.vercel.app](https://phanikumar.vercel.app/)**
 - 💬 Ask me about **Web Development** & **Machine Learning**
 - 📫 Reach me at **workwithphanikumarkodukulla@gmail.com**
 - ⚡ Fun fact: `Loop : Eat ; Code ; Sleep ; Enjoy ;`
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&width=100%25"/>
 
